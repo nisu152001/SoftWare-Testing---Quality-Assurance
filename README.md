@@ -7,3 +7,4 @@ SoftWare Testing - QA 2026
 5. Purpose of SoftWare Tesing
 6. Why SoftWare testing is required
 7. Practicing Software Testing on this demo application
+8. Domain knowledge plays a key role in software testing
