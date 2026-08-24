@@ -9,3 +9,4 @@ SoftWare Testing - QA 2026
 7. Practicing Software Testing on this demo application
 8. Domain knowledge plays a key role in software testing
 9. Basic Testing Types for understanding software testing Better
+10. SoftWare Testing Career Planning
