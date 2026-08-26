@@ -11,4 +11,5 @@ SoftWare Testing - QA 2026
 9. Basic Testing Types for understanding software testing Better
 10. SoftWare Testing Career Planning
 11. independent software live project (part 1) How project begins
-12. 12. eCommerce Domain knowledge
+12. eCommerce Domain knowledge
+13. Independent Testing Live Project (part 2) - Exploring & understanding Application 
