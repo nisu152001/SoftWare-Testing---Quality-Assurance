@@ -12,4 +12,7 @@ SoftWare Testing - QA 2026
 10. SoftWare Testing Career Planning
 11. independent software live project (part 1) How project begins
 12. eCommerce Domain knowledge
-13. Independent Testing Live Project (part 2) - Exploring & understanding Application 
+13. Independent Testing Live Project (part 2) - Exploring & understanding Application
+14. Independent Testing Live Project (part 3) - Exploring & understanding the Application
+15. Independent Software Testing live project (part 4) Exploring and understanding the Application
+16. Independent Software Testing live project (part 5) test planning and test strategy.
