@@ -16,3 +16,6 @@ SoftWare Testing - QA 2026
 14. Independent Testing Live Project (part 3) - Exploring & understanding the Application
 15. Independent Software Testing live project (part 4) Exploring and understanding the Application
 16. Independent Software Testing live project (part 5) test planning and test strategy.
+17. Independent Software Testing live project (part 6) test scenarios.
+18. Independent Software Testing live project (part 7) test case template
+19. Independent SoftWare Testing live project (part 8) Test case Registration form
