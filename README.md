@@ -19,3 +19,8 @@ SoftWare Testing - QA 2026
 17. Independent Software Testing live project (part 6) test scenarios.
 18. Independent Software Testing live project (part 7) test case template
 19. Independent SoftWare Testing live project (part 8) Test case Registration form
+20. Independent SoftWare Testing live project (part 9) - Test Cases for login functionality
+21. Independent SoftWare Testing live project (par 10) - test case for logout
+22. Independent Software Testing live project (part 11) - test case for forgot functionality
+23. Complete test Cases of Independent software testing live project (part 12)
+24. UI Testing Checklist
